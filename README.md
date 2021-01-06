@@ -1,1 +1,1 @@
-# K-Means-Clustering
+This program contains a number of functions that read a csv file and return the final seed centroids and the clusters to which the datapoints from the original csv file belong. The clusters can be found using the Manhattan, Euclidean or Minkowski distance algorithms.
